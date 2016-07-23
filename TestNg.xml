@@ -1,0 +1,11 @@
+
+<suite name="BatchTesting">
+  <test name="AdminLogin">
+    <classes>
+      <class name="com.testngsample.MultipleTest"/>
+      <class name="com.testngsample.FirstTestNgTest"/>
+      <class name="com.testngsample.AdminLoginTest"/>
+      <class name="com.testngsample.AfterTestBeforeTest"/>
+    </classes>
+  </test> 
+</suite> 
